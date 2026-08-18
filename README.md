@@ -1,7 +1,7 @@
 # Hi, I'm Thomas 👋
 
-IT professional with 20+ years of experience in technology,
-currently expanding my expertise into Data Analytics.
+IT professional with 20+ years of experience in infrastructure, IT governance, systems,
+projects and technology leadership, currently expanding my expertise into Data Analytics.
 
 ## Data Analytics
 
@@ -23,5 +23,24 @@ currently expanding my expertise into Data Analytics.
 
 ## Current Focus
 
-Building Data Analytics projects combining my IT experience,
-business knowledge and data-driven decision making.
+Building Data Analytics projects that combine my IT background, business knowledge,
+and analytical skills to transform data into actionable insights and support data-driven decision-making.
+
+## Featured Projects
+
+### ⚽ FIFA Data Analysis
+
+Exploratory Data Analysis of FIFA players using Python, Pandas and Matplotlib.
+
+**Key activities:**
+- Data cleaning and missing value treatment
+- Exploratory Data Analysis (EDA)
+- Player analysis by nationality and age
+- Data transformation with Pandas
+- Feature engineering
+- Data visualization
+- Performance and potential analysis
+
+**Technologies:** Python | Pandas | Matplotlib | Jupyter Notebook
+
+[View Project](https://github.com/thomasbobadila-design/fifa-data-analysis)
